@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -xe
 
 echo "Running install.sh script..."
 
